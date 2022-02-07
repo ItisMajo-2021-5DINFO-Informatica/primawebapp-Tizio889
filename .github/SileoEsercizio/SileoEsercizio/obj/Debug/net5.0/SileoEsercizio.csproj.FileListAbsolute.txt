@@ -21,3 +21,14 @@ C:\Users\Utente\Documents\GitHub\primawebapp-Tizio889\.github\SileoEsercizio\Sil
 C:\Users\Utente\Documents\GitHub\primawebapp-Tizio889\.github\SileoEsercizio\SileoEsercizio\obj\Debug\net5.0\ref\SileoEsercizio.dll
 C:\Users\Utente\Documents\GitHub\primawebapp-Tizio889\.github\SileoEsercizio\SileoEsercizio\obj\Debug\net5.0\SileoEsercizio.pdb
 C:\Users\Utente\Documents\GitHub\primawebapp-Tizio889\.github\SileoEsercizio\SileoEsercizio\obj\Debug\net5.0\SileoEsercizio.genruntimeconfig.cache
+C:\Users\Utente\Documents\GitHub\primawebapp-Tizio889\.github\SileoEsercizio\SileoEsercizio\bin\Debug\net5.0\SileoEsercizio.Views.dll
+C:\Users\Utente\Documents\GitHub\primawebapp-Tizio889\.github\SileoEsercizio\SileoEsercizio\bin\Debug\net5.0\SileoEsercizio.Views.pdb
+C:\Users\Utente\Documents\GitHub\primawebapp-Tizio889\.github\SileoEsercizio\SileoEsercizio\obj\Debug\net5.0\SileoEsercizio.RazorAssemblyInfo.cache
+C:\Users\Utente\Documents\GitHub\primawebapp-Tizio889\.github\SileoEsercizio\SileoEsercizio\obj\Debug\net5.0\SileoEsercizio.RazorAssemblyInfo.cs
+C:\Users\Utente\Documents\GitHub\primawebapp-Tizio889\.github\SileoEsercizio\SileoEsercizio\obj\Debug\net5.0\SileoEsercizio.TagHelpers.input.cache
+C:\Users\Utente\Documents\GitHub\primawebapp-Tizio889\.github\SileoEsercizio\SileoEsercizio\obj\Debug\net5.0\SileoEsercizio.TagHelpers.output.cache
+C:\Users\Utente\Documents\GitHub\primawebapp-Tizio889\.github\SileoEsercizio\SileoEsercizio\obj\Debug\net5.0\SileoEsercizio.RazorCoreGenerate.cache
+C:\Users\Utente\Documents\GitHub\primawebapp-Tizio889\.github\SileoEsercizio\SileoEsercizio\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Utente\Documents\GitHub\primawebapp-Tizio889\.github\SileoEsercizio\SileoEsercizio\obj\Debug\net5.0\SileoEsercizio.RazorTargetAssemblyInfo.cs
+C:\Users\Utente\Documents\GitHub\primawebapp-Tizio889\.github\SileoEsercizio\SileoEsercizio\obj\Debug\net5.0\SileoEsercizio.Views.pdb
+C:\Users\Utente\Documents\GitHub\primawebapp-Tizio889\.github\SileoEsercizio\SileoEsercizio\obj\Debug\net5.0\SileoEsercizio.csproj.CopyComplete
